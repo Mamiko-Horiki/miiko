@@ -1,3 +1,6 @@
 .Rproj.user
 .Rhistory
 .RData
+miiko.Rcheck/
+miiko*.tar.gz
+miiko*.tgz
