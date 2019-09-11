@@ -1,0 +1,6 @@
+^miiko\.Rproj$
+^\.Rproj\.user$
+^miiko\.Rcheck$
+^miiko.*\.tar\.gz$
+^miiko.*\.tgz$
+^LICENSE\.md$
